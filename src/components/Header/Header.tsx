@@ -48,7 +48,7 @@ export function Header() {
           {/* <a href={CV} download className="button">
             CV
           </a> */}
-          <label htmlFor="switch">Toggle</label>
+          {/* <label htmlFor="switch">Toggle</label> */}
         </nav>
 
         <div
